@@ -1,8 +1,8 @@
-﻿  Proc.cpp
-  dllmain.cpp
+﻿  dllmain.cpp
   mem.cpp
+  Proc.cpp
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 89 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  AssaultCubeInternalv1.vcxproj -> C:\Users\dillo\OneDrive\Desktop\Dillon\GameHacking\Assault Cube\AssaultCubeInternalv1\Release\AssaultCubeInternalv1.dll
+  AssaultCubeInternalv1.vcxproj -> C:\Users\dillo\OneDrive - Office 365\PC\Desktop\Dillon\CodingProjects\C\Assault Cube\AssaultCubeInternalv1\Release\AssaultCubeInternalv1.dll
